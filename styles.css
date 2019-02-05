@@ -1,0 +1,44 @@
+/*
+SELETOR {
+    PROPRIEDADE: VALOR;
+}
+*/
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header{
+background-color: rgb(152, 53, 209);
+
+}
+
+.nav-header a {
+color: crimson;
+text-decoration: none;
+
+}
+
+.cor-vermelha {
+color: red;
+
+}
+
+#header-pesquisa::placeholder {
+    color: aqua
+
+}
+
+textarea{
+    resize: none;
+}
+
+
+.negrito {
+    font-weight: bold;
+}
+
+.negrito:hover {
+    color: blue;
+}
